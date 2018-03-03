@@ -1,0 +1,6 @@
+C:\Users\misha\source\repos\PhoneBook_v2.0\.vs\PhoneBook_v2.0\lut\0\b\PhoneBook_v2.0.Tests\bin\Debug\PhoneBook_v2.0.Tests.dll
+C:\Users\misha\source\repos\PhoneBook_v2.0\.vs\PhoneBook_v2.0\lut\0\b\PhoneBook_v2.0.Tests\bin\Debug\PhoneBook_v2.0.Tests.pdb
+C:\Users\misha\source\repos\PhoneBook_v2.0\.vs\PhoneBook_v2.0\lut\0\i\PhoneBook_v2.0.Tests\Debug\PhoneBook_v2.0.Tests.csprojResolveAssemblyReference.cache
+C:\Users\misha\source\repos\PhoneBook_v2.0\.vs\PhoneBook_v2.0\lut\0\i\PhoneBook_v2.0.Tests\Debug\PhoneBook_v2.0.Tests.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\PhoneBook_v2.0\.vs\PhoneBook_v2.0\lut\0\i\PhoneBook_v2.0.Tests\Debug\PhoneBook_v2.0.Tests.dll
+C:\Users\misha\source\repos\PhoneBook_v2.0\.vs\PhoneBook_v2.0\lut\0\i\PhoneBook_v2.0.Tests\Debug\PhoneBook_v2.0.Tests.pdb

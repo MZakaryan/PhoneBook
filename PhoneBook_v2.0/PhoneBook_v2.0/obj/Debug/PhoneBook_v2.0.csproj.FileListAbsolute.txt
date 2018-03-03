@@ -1,0 +1,7 @@
+C:\Users\misha\source\repos\PhoneBook_v2.0\PhoneBook_v2.0\bin\Debug\PhoneBook_v2.0.exe.config
+C:\Users\misha\source\repos\PhoneBook_v2.0\PhoneBook_v2.0\bin\Debug\PhoneBook_v2.0.exe
+C:\Users\misha\source\repos\PhoneBook_v2.0\PhoneBook_v2.0\bin\Debug\PhoneBook_v2.0.pdb
+C:\Users\misha\source\repos\PhoneBook_v2.0\PhoneBook_v2.0\obj\Debug\PhoneBook_v2.0.csprojResolveAssemblyReference.cache
+C:\Users\misha\source\repos\PhoneBook_v2.0\PhoneBook_v2.0\obj\Debug\PhoneBook_v2.0.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\PhoneBook_v2.0\PhoneBook_v2.0\obj\Debug\PhoneBook_v2.0.exe
+C:\Users\misha\source\repos\PhoneBook_v2.0\PhoneBook_v2.0\obj\Debug\PhoneBook_v2.0.pdb
